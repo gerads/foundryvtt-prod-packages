@@ -75,6 +75,6 @@
 	"url": "https://gitlab.com/tposney/dae",
 	"bugs": "https://gitlab.com/tposney/dae/-/issues",
 	"allowBugReporter": true,
-	"manifest": "https://gitlab.com/tposney/dae/raw/v10/package/module.json",
+	"manifest": "https://raw.githubusercontent.com/gerads/foundryvtt-prod-packages/main/dae.json",
 	"download": "https://gitlab.com/tposney/dae/raw/v10/package/dae-v10.0.36.zip"
 }
